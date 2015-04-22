@@ -6,7 +6,7 @@
   "homepage": "https://github.com/yavorsky/riot-brunch",
   "repository": {
     "type": "git",
-    "url": "git@github.com:yavorsky/riot-brunch.git"
+    "url": "git@github.com:ulbrich/riot-brunch.git"
   },
   "scripts": {
     "test": "node_modules/.bin/mocha"
