@@ -1,6 +1,9 @@
 ## riotjs-brunch
-Adds [Riot](https://muut.com/riotjs/) support to
-[brunch](http://brunch.io).
+
+Please see the original project for updates. This fork just changes the
+dependencies to pull the newest version of Riot.js 3.
+
+Adds [Riot](https://muut.com/riotjs/) support to [brunch](http://brunch.io).
 
 ## Usage
 Install the plugin via npm with `npm install --save riot-brunch`.
